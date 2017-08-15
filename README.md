@@ -1,6 +1,6 @@
 # aws-lambda-telegram-bot
 
-AWS Lambda, NodeJS based Telegram Bot.
+AWS Lambda, Telegram Bot based NodeJS .
 
 ## How to use
 
