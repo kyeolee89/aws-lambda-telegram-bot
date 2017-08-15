@@ -4,3 +4,6 @@ AWS Lambda, NodeJS based Telegram Bot.
 
 ## How to use
 
+**You need to change "path" and "chat_id" in the "telegramBot.js" file.**
+
+Upload the attached "telegramBot.js" to the AWS Lambda Service source code.
